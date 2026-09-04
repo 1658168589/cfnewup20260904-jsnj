@@ -1,5 +1,5 @@
-// CFnew - 终端 v3.01
-// 版本: v3.0 1
+// CFnew - 终端 v3.0
+// 版本: v3.0 
 import { connect as 连接 } from 'cloudflare:sockets';
 const 基础64文本解码器 = new TextDecoder();
 function 解码64(文本) {
@@ -1016,8 +1016,8 @@ export default {
           const 语言值661 = 是否值664 ? 'fa-IR' : 'zh-CN';
           const 本地值660 = {
             zh: {
-              title: '终端 v3.0',
-              terminal: '终端 v3.0',
+              title: '终端 v3.01',
+              terminal: '终端 v3.01',
               congratulations: '恭喜你来到这',
               enterU: '请输入你U变量的值',
               enterD: '请输入你D变量的值',
